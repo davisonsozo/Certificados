@@ -6,20 +6,20 @@ ___
 #### _Introdução a programação e pensamento computacional_
 ![imagem introdução á programação e pensamento computacional](imagens/intro-pens-comp.png)
 ____
-#### Introdução Git e Github
+#### _Introdução Git e Github_
 ![imagem introdução git github](imagens/intro-git-hub.png)
 ____
-#### Fundamentos Lógica de Programação
+#### _Fundamentos Lógica de Programação_
 ![imagem fundamentos logica programação](imagens/Fundamentos-logica-programaçao.png)
 ___
-#### Introdução ao JavaScript
+#### _Introdução ao JavaScript_
 ![imagem introdução javascript](imagens/Intro-javascript.png)
 ____
-#### HTML Básico
+#### _HTML Básico_
 ![imagem html básico](imagens/html-basico.png)
 ___
-#### HTML Avançado
+#### _HTML Avançado_
 ![imagem html avançado](imagens/html-avançado.png)
 ____
-#### HTML e CSS na Prática
+#### _HTML e CSS na Prática_
 ![imagem html e css na prática](imagens/html-css-pratica.png)
